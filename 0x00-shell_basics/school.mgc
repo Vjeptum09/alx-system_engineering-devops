@@ -1,4 +1,4 @@
 #!/bin/bash 
 file -C -m school
 0 string SCHOOL school data
-!:mine school
+!:mime school
