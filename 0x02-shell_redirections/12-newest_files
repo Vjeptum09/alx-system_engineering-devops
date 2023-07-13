@@ -1,2 +1,2 @@
 #!/bin/bash
-newest_files=$(ls -lt | grep "^-" | head -n 10)
+$(ls -lt | grep "^-" | head -n 10)
