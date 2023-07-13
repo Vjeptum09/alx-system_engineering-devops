@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -name '*.js'-tpyef -delete
+find . -name '*.js' -tpye f -delete
